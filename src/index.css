@@ -15,9 +15,9 @@ body {
   box-sizing: border-box;
 }
 
-html, body{
+/* html, body{
   overflow-y: hidden;
-}
+} */
 
 body::-webkit-scrollbar{
   display: none;
